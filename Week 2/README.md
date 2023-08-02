@@ -5,7 +5,7 @@ This repository is for week 2 of Data Glacier Intership "G2M insight for Cab Inv
 
 ## Code
 
-> **WARNING: ** Please use the Google Colab link for running the code as it is the optimal choice in terms of resources, comfort and error-free guarantee.
+> **WARNING:** Please use the Google Colab link for running the code as it is the optimal choice in terms of resources, comfort and error-free guarantee.
 
 - [(Google Colab) Implementation for running and testing](https://colab.research.google.com/drive/1_Wu21FzmnHz92wLfQwCLBFe8qbcls89C?usp=sharing)
 - [Implementation for analysis and research only](src/Week_2.ipynb)
