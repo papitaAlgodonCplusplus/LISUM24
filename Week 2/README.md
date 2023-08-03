@@ -30,11 +30,11 @@ Below are the list of datasets which are provided for the analysis:
 
 **Data PDF documents:**
 
-[Datasets specifications](data_pdfs/)
+[Datasets specifications](data_doc/Data_Intake_Report.pdf)
 
 ## Presentation
 
-[Presentation](presentation_pdf/...)
+[Presentation](presentation_pdf/presentation.pdf)
 
 ## How to run
 
