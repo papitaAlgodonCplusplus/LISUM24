@@ -14,7 +14,7 @@ This repository is for week 4 of Data Glacier Intership "Deployment on Flask" pr
 
 4. Create virtual flask environment ``virtualenv flask``
 
-> NOTE: You may need to install flask module first `pip install flask``
+> NOTE: You may need to install flask module first ``pip install flask``
 
 5. Go to the flask enviornment folder ``cd flask``
 
