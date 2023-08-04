@@ -28,8 +28,8 @@ This repository is for week 4 of Data Glacier Intership "Deployment on Flask" pr
 
 That's it! Now you can fill up the input values and make predictions.
 
-![img1](figures/img1.png)
-![img2](figures/img2.png)
+![img1](figures/img1.jpg)
+![img2](figures/img2.jpg)
 
 
 ## Data info
