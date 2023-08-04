@@ -1,0 +1,56 @@
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+			<h1 class="text-center">
+				CO Prediction Maker
+			</h1>
+			<h2>
+			<p class="text-center text-muted lead">
+				A Flask Deployed CO Predicter Model
+			</p>			</h2>
+
+	<form id="prediction-form" action="{{ url_for('predict') }}" method="post">
+	<label for="co">PT08.S1(CO):</label>
+    <input type="number" name="co" step="0.01" required><br>
+
+    <label for="nmhc">NMHC(GT):</label>
+    <input type="number" name="nmhc" step="0.01" required><br>
+
+    <label for="c6h6">C6H6(GT):</label>
+    <input type="number" name="c6h6" step="0.01" required><br>
+
+    <label for="nmhc_gt">PT08.S2(NMHC):</label>
+    <input type="number" name="nmhc_gt" step="0.01" required><br>
+
+    <label for="nox_gt">NOx(GT):</label>
+    <input type="number" name="nox_gt" step="0.01" required><br>
+
+    <label for="nox">PT08.S3(NOx):</label>
+    <input type="number" name="nox" step="0.01" required><br>
+
+    <label for="no2_gt">NO2(GT):</label>
+    <input type="number" name="no2_gt" step="0.01" required><br>
+
+    <label for="no2">PT08.S4(NO2):</label>
+    <input type="number" name="no2" step="0.01" required><br>
+
+    <label for="o3">PT08.S5(O3):</label>
+    <input type="number" name="o3" step="0.01" required><br>
+
+    <label for="t">T:</label>
+    <input type="number" name="t" step="0.01" required><br>
+
+    <label for="rh">RH:</label>
+    <input type="number" name="rh" step="0.01" required><br>
+
+    <label for="ah">AH:</label>
+    <input type="number" name="ah" step="0.01" required><br>
+
+	 <input  type="submit", value="Predict">
+  	</form>                 
+	</div>
+	</header>
+	</div>
+	</div>
+</div>
