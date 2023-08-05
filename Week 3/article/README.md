@@ -1,4 +1,4 @@
-# Week 2 of Data Glacier Intership - EDA on Cab Companies
+# Week 3 of Data Glacier Intership - Article
 
 This repository is for week 3 of Data Glacier Intership "Article Writing" project, where I write about U-net and it's marvelous applications.
 

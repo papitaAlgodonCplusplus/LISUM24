@@ -1,4 +1,4 @@
-# Week 2 of Data Glacier Intership - EDA on Cab Companies
+# Week 4 of Data Glacier Intership - Deployment Flask
 
 This repository is for week 4 of Data Glacier Intership "Deployment on Flask" project, where I create a linear regression model to predict CO concentrations given other common substances as input
 
