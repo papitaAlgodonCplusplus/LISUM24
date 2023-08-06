@@ -1,0 +1,24 @@
+
+file_type: csv
+dataset_name: cpat
+file_name: config_v1
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns:
+    - callsign
+    - number
+    - aircraft_uid
+    - typecode
+    - origin
+    - destination
+    - firstseen
+    - lastseen
+    - day
+    - latitude_1
+    - longitude_1
+    - altitude_1
+    - latitude_2
+    - longitude_2
+    - altitude_2
