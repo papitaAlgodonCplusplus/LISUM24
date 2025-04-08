@@ -9,10 +9,6 @@ This repository is for week 13 of Data Glacier Intership "Retail Forecasting", w
 
 **Code**
 
-> **WARNING:** Please use the Google Colab link for running the code as it is the optimal choice in terms of resources, comfort and error-free guarantee.
-
-- [(Google Colab) Implementation for running and testing](https://colab.research.google.com/drive/13f50xZob9lJAiG0Bys0gRK7LTChR3I5p?usp=sharing)
-
 - [Implementation for analysis and research only](Src/Forecast_Project.ipynb)
 
 
