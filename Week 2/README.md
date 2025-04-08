@@ -33,14 +33,6 @@ Below are the list of datasets which are provided for the analysis:
 
 [Presentation](presentation_pdf/presentation.pdf)
 
-## How to run
-
-This proyect can be readed and tested at:
-
-* [IPYNB GoogleColab](https://colab.research.google.com/drive/1_Wu21FzmnHz92wLfQwCLBFe8qbcls89C?usp=sharing)
-
-By pressing ``CTRL + F9``
-
 ## Questions & Feedback
 
 If you have any questions about the proyect, suggestions or want to spot a mistake, please let me know by creating a new issue or writing me at:
